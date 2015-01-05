@@ -1,0 +1,2 @@
+#Use this file for system-specific settings
+export EDITOR="/usr/local/bin/subl"
